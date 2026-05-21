@@ -48,6 +48,13 @@ Then open: **http://127.0.0.1:8000**
 
 ---
 
+<img width="1920" height="1200" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/d36f2372-1002-466f-92e9-f910d77ca7ef" />
+
+
+
+
+
+
 ## ✨ Features
 
 - Add, edit, delete student records
